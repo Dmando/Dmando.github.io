@@ -1,23 +1,28 @@
 Analyst with a TS clearance and experience using social and data science methods to analyze complex issues and provide actionable solutions. Excels in multidisciplinary, collaborative, and client-facing environments.
 
-#Work Experience 
+# Work Experience
+### MITRE
+June 2023-Present | McLean, VA                           
+*Computational Analyst, Intermediate; Supported White House, Department of Homeland Security, and Defense Components* 
 
-###MITRE	      		                                                                                                                                                  June 2023-Present                           
-Computational Analyst; Supported White House, Department of Homeland Security, and Defense Components             McLean, VA
-Designed and deployed a web-based R Shiny application to compute and visualize a directed graph model of health, food, and agriculture commodity flows on a high-performance Linux cluster using R; presented key insights to 100+ individuals, including representatives from government agencies, national laboratories, and at a regional tabletop exercise 
-Conducted geopolitical risk analysis delivered in Power BI for DoD to determine optimal infrastructure deployments
-Delivered & presented R (ggplot2)/pivot table data visualizations & policy analysis to inform policy around advanced license plate reader use to 30+ law enforcement officials across the U.S. 
-Served as project lead, managing a team of three to assess learning modernization efforts for a government agency by conducting a survey and delivering a data-driven analysis of results to the sponsor
+- Designed and deployed a web-based R Shiny application to compute and visualize a directed graph model of health, food, and agriculture commodity flows on a high-performance Linux cluster using R; presented key insights to 100+ individuals, including representatives from government agencies, national laboratories, and at a regional tabletop exercise 
+- Conducted geopolitical risk analysis delivered in Power BI for DoD to determine optimal infrastructure deployments
+- Delivered & presented R (ggplot2)/pivot table data visualizations & policy analysis to inform policy around advanced license plate reader use to 30+ law enforcement officials across the U.S. 
+- Served as project lead, managing a team of three to assess learning modernization efforts for a government agency by conducting a survey and delivering a data-driven analysis of results to the sponsor
 
-###TELEGEOGRAPHY	      		                                                                                                                       May-August 2022                            
-Data Center Research Intern				                                                              		                       Washington, DC
-Researched over 150 data center colocation and cloud hosting operators in Asia, Australia, North America, and Europe to include and modify over 600 data centers to update TeleGeography’s Data Center Research Service application for FY2023
-Presented to TeleGeography staff of 20 about the Russian data center market by analyzing 15 Russian data center operators and synthesizing across Russian print and broadcast media sources
+### TeleGeography	      		                                                                                                                       
+May-August 2022 | Washington, DC                          
+*Data Center Research Intern*				                                                              		                      
 
-###THE WASHINGTON INSTITUTE FOR NEAR EAST POLICY	      		                                  August 2021-May 2022                             
-Arab Politics Program Intern                                                                                                       	                                       Washington, DC
-Prepared fellows for media interviews and supported the publication of their op-eds and research by writing daily and topical news briefs and memos on Russian influence in MENA
-Published an article about international responses to the Russian invasion of Ukraine in the UN on the main website, which global news organizations, including Article 19, cited
+- Researched over 150 data center colocation and cloud hosting operators in Asia, Australia, North America, and Europe to include and modify over 600 data centers to update TeleGeography’s Data Center Research Service application for FY2023
+- Presented to TeleGeography staff of 20 about the Russian data center market by analyzing 15 Russian data center operators and synthesizing across Russian print and broadcast media sources
+
+### THE Washington Institute for Near East Policy
+August 2021-May 2022 | Washington, DC                            
+*Arab Politics Program Intern*                                                                                                       	                                       
+
+- Prepared fellows for media interviews and supported the publication of their op-eds and research by writing daily and topical news briefs and memos on Russian influence in MENA
+- Published an article about international responses to the Russian invasion of Ukraine in the UN on the main website, which global news organizations, including Article 19, cited
 
 #Research Experience 
 ###DEPARTMENT OF STATE DIPLOMACY LAB	      		                                                             January 2023-May 2023                            
