@@ -1,6 +1,7 @@
 Analyst with a TS clearance and experience using social and data science methods to analyze complex issues and provide actionable solutions. Excels in multidisciplinary, collaborative, and client-facing environments.
 
 #Work Experience 
+
 ###MITRE	      		                                                                                                                                                  June 2023-Present                           
 Computational Analyst; Supported White House, Department of Homeland Security, and Defense Components             McLean, VA
 Designed and deployed a web-based R Shiny application to compute and visualize a directed graph model of health, food, and agriculture commodity flows on a high-performance Linux cluster using R; presented key insights to 100+ individuals, including representatives from government agencies, national laboratories, and at a regional tabletop exercise 
