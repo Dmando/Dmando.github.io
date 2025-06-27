@@ -7,7 +7,8 @@ June 2023-Present | McLean, VA
 
 - Designed and deployed a web-based R Shiny application to compute and visualize a directed graph model of health, food, and agriculture commodity flows on a high-performance Linux cluster using R; presented key insights to 100+ individuals, including representatives from government agencies, national laboratories, and at a regional tabletop exercise 
 - Conducted geopolitical risk analysis delivered in Power BI for DoD to determine optimal infrastructure deployments
-- Delivered & presented R (ggplot2)/pivot table data visualizations & policy analysis to inform policy around advanced license plate reader use to 30+ law enforcement officials across the U.S. 
+- Delivered & presented R (ggplot2)/pivot table data visualizations & policy analysis to inform policy around advanced license plate reader use to 30+ law enforcement officials across the U.S.
+- Leveraged international and domestic trade databases to identify vulnerable commodities on the HS and SCTG levels; presented R (ggplot2)/pivot table data visualizations, policy, and statistical analysis to the government agency sponsor 
 - Served as project lead, managing a team of three to assess learning modernization efforts for a government agency by conducting a survey and delivering a data-driven analysis of results to the sponsor
 
 ### TeleGeography	      		                                                                                                                       
@@ -43,8 +44,17 @@ October 2021-April 2022 | Washington, DC
 
 ### American University Department of Mathematics & Statistics
 June 2021-August 2021 | Washington, DC      
-*Student Researcher*				                                                                                                                     
-- Created Natural Language Processing algorithms using statistical machine learning methods (e.g., KNN, Decision Trees, Random Forests) to classify social media posts as true or false with a 91% success rate 
+*Student Researcher* <br>
+[Final Poster Presentation](https://github.com/Dmando/Dmando.github.io/blob/915596c97fe4bcaea4ed460f2fb1d9c8ad751ffd/written_works/IMG_5797.jpg)
+- Created Natural Language Processing algorithms using statistical machine learning methods (e.g., KNN, Decision Trees, Random Forests) to classify social media posts as true or false with a 91% success rate
+
+### The American Agora
+April 2020-May 2023                             
+*Managing Editor* <br>
+
+- Wrote long-form policy analysis articles such as [Enter France, Exit Germany](https://www.americanagora.org/single-post/2020/06/19/exit-germany-enter-france), [The Tragedy of Juan Guaidó](https://www.americanagora.org/single-post/2020/03/13/the-tragedy-of-juan-guaid%C3%B3), and [The Bougainville Question](https://www.americanagora.org/single-post/2019/11/24/new-nation-the-bougainville-question)
+- Edited over a dozen articles and advised colleagues to craft their articles for American University’s political analysis publication
+
 
 # Education
 ### American University
