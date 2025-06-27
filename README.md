@@ -27,14 +27,17 @@ August 2021-May 2022 | Washington, DC
 # Research Experience 
 ### Department of State Diplomacy Lab
 January 2023-May 2023 | Washington, DC <br>
+*Diplomacy Lab Researcher* <br>		
 [Final Research Paper](https://github.com/Dmando/Dmando.github.io/blob/54893e790c8d9eaeee1149958fd7377dca425621/written_works/The%20Impact%20of%20the%20U.S.%20Inflation%20Reduction%20Act%20on%20Global%20Clean%20Energy%20Supply%20Chains.pdf) <br>[Final Presentation](https://github.com/Dmando/Dmando.github.io/blob/54893e790c8d9eaeee1149958fd7377dca425621/written_works/IRA%20Diplab%20presentation.pdf) <br>
-*Diplomacy Lab Researcher*			                                                       		                                       
+
 - Contracted by the Department of State’s Bureau of Energy Resources through the Diplomacy Lab program to produce a report and presentation about the impact of the Inflation Reduction Act on key clean technology supply and value chains
-- Managed a team of five undergraduate researchers to present findings and recommendations from the report to the State Department client which discussed ways to leverage international diplomacy to increase U.S. manufacturing and derisk clean technology and critical mineral supply chains
+- Managed a team of five undergraduate researchers to present findings and recommendations from the report to the State Department client, which discussed ways to leverage international diplomacy to increase U.S. manufacturing and derisk clean technology and critical mineral supply chains
 
 ### Politics & Violence Research Lab (PVRL)      		                                             
 October 2021-April 2022 | Washington, DC                            
-*Fellow* 						                                                       		                                       
+*Fellow* <br>
+[Final Research Paper](https://github.com/Dmando/Dmando.github.io/blob/8bf53fcb71b8e19ab8ad027fb9b7fb624a9d6c9d/written_works/PVRL%20David%20Leshchiner%20Research%20Paper%20Writing%20Sample.pdf) <br>
+
 - Wrote a research paper as part of the Research on International Policy Implementation Lab on strategic communication in aid negotiations in Rwanda by pulling data from a Twitter API and conducting a sentiment analysis on the data in R
 - Presented findings from the paper, titled “Influencing Aid Tweet by Tweet: The use of Twitter to shape donor-recipient aid negotiations” at the 2022 Midwest Political Science Association Conference in Chicago to a research panel
 
@@ -51,7 +54,8 @@ August 2019-May 2023 | Washington, DC <br />
 
 ### Al-Farabi Kazakh National University
 August 2022-December 2022 | Almaty, Kazakhstan <br />
-**Awards:** Received a Boren and Fulbright-Hayes Scholarship to study Russian in Kazakhstan
+**Awards:** Received a Boren and Fulbright-Hayes Scholarship to study Russian in Kazakhstan <br>
+[Boren Scholarship National Security Essay](https://github.com/Dmando/Dmando.github.io/blob/8bf53fcb71b8e19ab8ad027fb9b7fb624a9d6c9d/written_works/Boren%20David%20Leshchiner%20Writing%20Sample.pdf)
 
 # Skills 
 
