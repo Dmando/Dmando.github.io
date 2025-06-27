@@ -43,17 +43,17 @@ June 2021-August 2021 | Washington, DC
 - Created Natural Language Processing algorithms using statistical machine learning methods (e.g., KNN, Decision Trees, Random Forests) to classify social media posts as true or false with a 91% success rate 
 
 # Education
-### American University	
-August 2019-May 2023 | Washington, DC
-**Dual Degree:** B.A. International Studies & B.S. in Data Science | GPA: 3.83               		                                                              
+### American University
+August 2019-May 2023 | Washington, DC <br />
+**Dual Degree:** B.A. International Studies & B.S. in Data Science | GPA: 3.83 <br /> 
 **Honors:** Magna Cum Laude, Phi Beta Kappa Inductee, Dean’s List for seven consecutive semesters
 
 ### Al-Farabi Kazakh National University
-August 2022-December 2022 | Almaty, Kazakhstan
+August 2022-December 2022 | Almaty, Kazakhstan <br />
 **Awards:** Received a Boren and Fulbright-Hayes Scholarship to study Russian in Kazakhstan
 
 # Skills 
 
-**Computational Skills:** R (tidyverse, ggplot2, shiny, leaflet, sf) | MOS Excel 2019 certified | Database management | Linux | Python | Geospatial analysis in R & ArcGIS | PowerBI | Tableau | Statistical analysis and methods (Bayesian statistics, regression, machine learning, network analysis) | NLP 
-**Analytical Skills:** Policy memos | Technical report writing | ICD 203 Analytic Standards | Risk analysis | Literature reviews
-**Languages:** Russian (C1 Professional working proficiency) | Spanish (B2 Limited working proficiency)
+**Computational Skills:** R (tidyverse, ggplot2, shiny, leaflet, sf) | MOS Excel 2019 certified | Database management | Linux | Python | Geospatial analysis in R & ArcGIS | PowerBI | Tableau | Statistical analysis and methods (Bayesian statistics, regression, machine learning, network analysis) | NLP <br />
+**Analytical Skills:** Policy memos | Technical report writing | ICD 203 Analytic Standards | Risk analysis | Literature reviews <br />
+**Languages:** Russian (C1 Professional working proficiency) | Spanish (B2 Limited working proficiency) 
