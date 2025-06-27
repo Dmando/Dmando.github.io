@@ -27,8 +27,8 @@ August 2021-May 2022 | Washington, DC
 # Research Experience 
 ### Department of State Diplomacy Lab
 January 2023-May 2023 | Washington, DC <br>
-[Final Research Paper] (written_works/The Impact of the U.S. Inflation Reduction Act on Global Clean Energy Supply Chains.pdf) <br>
-[Final Presentation] (written_works/IRA Diplab presentation.pdf)
+[Final Research Paper] (https://dmando.github.io/written_works/The%Impact%of%the%U.S.%Inflation%Reduction%Act%on%Global%Clean%Energy%Supply%Chains.pdf) <br>
+[Final Presentation] (https://dmando.github.io/written_works/IRA%Diplab%presentation.pdf) <br>
 *Diplomacy Lab Researcher*			                                                       		                                       
 - Contracted by the Department of State’s Bureau of Energy Resources through the Diplomacy Lab program to produce a report and presentation about the impact of the Inflation Reduction Act on key clean technology supply and value chains
 - Managed a team of five undergraduate researchers to present findings and recommendations from the report to the State Department client which discussed ways to leverage international diplomacy to increase U.S. manufacturing and derisk clean technology and critical mineral supply chains
