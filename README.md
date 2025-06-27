@@ -1,5 +1,3 @@
-Analyst with a TS clearance and experience using social and data science methods to analyze complex issues and provide actionable solutions. Excels in multidisciplinary, collaborative, and client-facing environments.
-
 # Work Experience
 ### MITRE
 June 2023-Present | McLean, VA                           
@@ -70,5 +68,5 @@ August 2022-December 2022 | Almaty, Kazakhstan <br />
 # Skills 
 
 **Computational Skills:** R (tidyverse, ggplot2, shiny, leaflet, sf), MOS Excel 2019 certified, Database management, Linux, Python, Geospatial analysis in R & ArcGIS, PowerBI, Tableau, Statistical analysis and methods (Bayesian statistics, regression, machine learning, network analysis), NLP <br />
-**Analytical Skills:** Policy memos, Technical report writing, ICD 203 Analytic Standards, Risk analysis, Literature reviews <br />
+**Analytical Skills:** Policy memos, OSINT, Technical report writing, ICD 203 Analytic Standards, Risk analysis, Literature reviews <br />
 **Languages:** Russian (C1 Professional working proficiency), Spanish (B2 Limited working proficiency) 
