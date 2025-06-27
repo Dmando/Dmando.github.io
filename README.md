@@ -54,6 +54,6 @@ August 2022-December 2022 | Almaty, Kazakhstan <br />
 
 # Skills 
 
-**Computational Skills:** R (tidyverse, ggplot2, shiny, leaflet, sf) | MOS Excel 2019 certified | Database management | Linux | Python | Geospatial analysis in R & ArcGIS | PowerBI | Tableau | Statistical analysis and methods (Bayesian statistics, regression, machine learning, network analysis) | NLP <br />
-**Analytical Skills:** Policy memos | Technical report writing | ICD 203 Analytic Standards | Risk analysis | Literature reviews <br />
-**Languages:** Russian (C1 Professional working proficiency) | Spanish (B2 Limited working proficiency) 
+**Computational Skills:** R (tidyverse, ggplot2, shiny, leaflet, sf), MOS Excel 2019 certified, Database management, Linux, Python, Geospatial analysis in R & ArcGIS, PowerBI, Tableau, Statistical analysis and methods (Bayesian statistics, regression, machine learning, network analysis), NLP <br />
+**Analytical Skills:** Policy memos, Technical report writing, ICD 203 Analytic Standards, Risk analysis, Literature reviews <br />
+**Languages:** Russian (C1 Professional working proficiency), Spanish (B2 Limited working proficiency) 
