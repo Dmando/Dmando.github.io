@@ -21,7 +21,7 @@ August 2021-May 2022 | Washington, DC
 *Arab Politics Program Intern*                                                                                                       	                                       
 
 - Prepared fellows for media interviews and supported the publication of their op-eds and research by writing daily and topical news briefs and memos on Russian influence in MENA
-- Published an article about international responses to the Russian invasion of Ukraine in the UN on the main website, which global news organizations, including Article 19, cited
+- Published an [article](https://www.washingtoninstitute.org/policy-analysis/un-resolution-ukraine-how-did-middle-east-vote) about international responses to the Russian invasion of Ukraine in the UN on the main website, which global news organizations, including Article 19, cited
 
 # Research Experience 
 ### Department of State Diplomacy Lab
